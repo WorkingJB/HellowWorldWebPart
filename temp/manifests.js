@@ -1256,7 +1256,7 @@ var MANIFESTS_ARRAY = [
     }
   },
   {
-    "id": "0ca7e377-7b4b-4770-8ba4-ffdf6806424b",
+    "id": "4e817638-285d-455f-b942-ebd5692190a4",
     "alias": "HelloWorldWebPart",
     "componentType": "WebPart",
     "version": "0.0.1",
@@ -1275,15 +1275,11 @@ var MANIFESTS_ARRAY = [
           "default": "HelloWorld"
         },
         "description": {
-          "default": "HelloWold description"
+          "default": "HelloWorld description"
         },
         "officeFabricIconFontName": "Page",
         "properties": {
-          "description": "HelloWorld",
-          "test": "Multi-line text field",
-          "test1": true,
-          "test2": "2",
-          "test3": true
+          "description": "HelloWorld"
         }
       }
     ],
@@ -1295,7 +1291,7 @@ var MANIFESTS_ARRAY = [
       "scriptResources": {
         "hello-world-web-part": {
           "type": "path",
-          "path": "hello-world-web-part_df5ce321fb5dcf160b2d.js"
+          "path": "hello-world-web-part_ead5563b7ac219ade06d.js"
         },
         "@microsoft/sp-property-pane": {
           "type": "component",
