@@ -1279,7 +1279,11 @@ var MANIFESTS_ARRAY = [
         },
         "officeFabricIconFontName": "Page",
         "properties": {
-          "description": "HelloWorld"
+          "description": "HelloWorld",
+          "test": "Multi-line text field",
+          "test1": true,
+          "test2": "2",
+          "test3": true
         }
       }
     ],
@@ -1291,7 +1295,7 @@ var MANIFESTS_ARRAY = [
       "scriptResources": {
         "hello-world-web-part": {
           "type": "path",
-          "path": "hello-world-web-part_ead5563b7ac219ade06d.js"
+          "path": "hello-world-web-part_8fa2fa2bb97713f0f3f5.js"
         },
         "@microsoft/sp-property-pane": {
           "type": "component",
